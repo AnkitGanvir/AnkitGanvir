@@ -53,7 +53,7 @@ Currently completing Java Full-Stack Development training at SEED Infotech, Nagp
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AnkitGanvir&show_icons=true&theme=default&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitGanvir&theme=default" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=AnkitGanvir&theme=default" width="48%" />
 </p>
 
 <p align="center">
